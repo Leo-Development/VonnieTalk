@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/Leo-Development/VonnieTalk/assets/160739845/a99f2176-e950-482e-b4d4-5a6b5811ae57" width="320" height="568">
+<img src="https://github.com/Leo-Development/VonnieTalk/assets/160739845/88ab6b00-3f5f-408f-be24-6998c6df8fe9" width="320" height="568">
+<img src="https://github.com/Leo-Development/VonnieTalk/assets/160739845/b17dfd5b-e1d9-451a-96b9-cbffd6fbd683" width="320" height="568">
 
-This project is a starting point for a Flutter application.
+## About Vonnie Talk
 
-A few resources to get you started if this is your first Flutter project:
+This is a flutter project designed for children. Its used to help children to pronounce names of different items. This project uses firebase and its API's to enhance user experience. This project is written using dart as its programming language
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
